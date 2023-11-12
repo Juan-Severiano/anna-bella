@@ -4,6 +4,7 @@
     src: url('./fonts/AlexBrush-Regular.ttf');
 }
 
+
 * { margin: 0; padding: 0; }
 
 html { background-image: url('./img/fundo.png'); }
